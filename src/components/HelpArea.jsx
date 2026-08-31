@@ -19,6 +19,8 @@ const HELP_ITEMS = [
   },
 ];
 
+// my test 
+
 function HelpArea() {
   return (
     <section data-testid="help-area" id="help-area">
